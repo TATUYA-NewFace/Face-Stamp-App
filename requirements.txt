@@ -1,5 +1,6 @@
 streamlit
 face_recognition
 Image
+ImageDraw
 numpy
 BytesIO
