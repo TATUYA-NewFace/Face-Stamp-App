@@ -4,7 +4,7 @@ from PIL import Image, ImageDraw
 import numpy as np
 from io import BytesIO
 
-DEFAULT_STAMP_PATH = "/Users/tatsuya/Python/Streamlit/sticker.png"  # Default stamp image path
+DEFAULT_STAMP_PATH = "sticker.png"  # Default stamp image path
 
 # スタンプ画像のアップロード
 st.title("顔認識スタンプアプリ")
